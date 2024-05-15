@@ -1,4 +1,4 @@
-# JPASeries
+# JPA-Mapping
 In Java Persistence API (JPA), annotations are employed to establish relationships between entities (classes representing database tables). These annotations streamline the process of defining how entities interact with each other, ensuring data consistency and simplifying queries.
 
 ## Key Relationship Mappings:
